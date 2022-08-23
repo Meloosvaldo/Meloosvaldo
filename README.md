@@ -1,13 +1,13 @@
-## Pode entrar, Dear Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Pode entrar, Dear Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👨🏻‍💻
 
 
 <div align= "justify">
 
-Meu nome é Osvaldo Melo e amo o mundo da Tecnologia.
+Meu nome é Osvaldo Melo e curto bastante o mundo da Tecnologia.
 
-Atualmente busco aprender Programação e outras ferramentas da área de desenvolvimento!
+Atualmente busco aprender Programação e outras ferramentas da área de Informática/Computação!
 
-Tenho formações (graduação e pós-graduação) em Informática, Redes de Computadores e Sistemas e Computação.
+
 </div>
 
 <p align="center">
@@ -49,5 +49,9 @@ Tenho formações (graduação e pós-graduação) em Informática, Redes de Com
   <a href="https://www.linkedin.com/in/osvaldo-antunes-de-melo-junior-6026bb49" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 </div>
+<br>
 
+<div align="center">
+<img height="120" alt="Obrigado pela visita" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 
+![Visitor Count](https://profile-counter.glitch.me/Meloosvaldo/count.svg)
