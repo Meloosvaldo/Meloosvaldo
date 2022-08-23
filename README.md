@@ -1,12 +1,13 @@
 ## Pode entrar, Dear Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👨🏻‍💻
 
-
 <div align= "justify">
 
 Meu nome é Osvaldo Melo e curto bastante o mundo da Tecnologia.
 
 Atualmente busco aprender Programação e outras ferramentas da área de Informática/Computação!
-
+<br>
+<div align="center" width="25">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
 
 </div>
 
@@ -49,7 +50,6 @@ Atualmente busco aprender Programação e outras ferramentas da área de Inform�
   <a href="https://www.linkedin.com/in/osvaldo-antunes-de-melo-junior-6026bb49" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 </div>
-<br>
 
 <div align="center">
 <img height="120" alt="Obrigado pela visita" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
