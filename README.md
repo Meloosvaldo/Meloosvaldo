@@ -1,5 +1,5 @@
+## Pode entrar, Dear Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-## Pode entrar, Dear Devs! 
 
 <div align= "justify">
 
@@ -9,6 +9,10 @@ Atualmente busco aprender Programação e outras ferramentas da área de desenvo
 
 Tenho formações (graduação e pós-graduação) em Informática, Redes de Computadores e Sistemas e Computação.
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendiz%20Desenvolvedor%20App%20Web;Desenvolvedor%20Em%20Formação;Aprendendo%20Coisas%20Novas&center=true&width=440&height=45&color=Blue&vCenter=true&size=22&pause=1000"></a>
+</p>
 
 <br>
 
@@ -44,9 +48,6 @@ Tenho formações (graduação e pós-graduação) em Informática, Redes de Com
   <a href="https://www.instagram.com/osvaldomelojr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/osvaldo-antunes-de-melo-junior-6026bb49" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=Meloosvaldo)
 </div>
-<BR>
-<div align="center">
-(https://github-profile-trophy.vercel.app/?username=Meloosvaldo)
-</div>
+
+
