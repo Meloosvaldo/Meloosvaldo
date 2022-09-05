@@ -13,7 +13,7 @@ Currently I seek to learn Programming and other tools in the area of Informatics
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendiz%20Desenvolvedor%20App%20Web;Desenvolvedor%20Em%20Formação;Aprendendo%20Coisas%20Novas&center=true&width=440&height=45&color=Blue&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Apprentice%20Developer%20App%20Web;Developer%20In%20Training;Learning%20things%20New&center=true&width=440&height=45&color=Blue&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <br>
@@ -53,6 +53,6 @@ Currently I seek to learn Programming and other tools in the area of Informatics
 </div>
 
 <div align="center">
-<img height="120" alt="Obrigado pela visita" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+<img height="120" alt="Thanks for the visit!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 
 ![Visitor Count](https://profile-counter.glitch.me/Meloosvaldo/count.svg)
