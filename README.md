@@ -1,10 +1,11 @@
-## Pode entrar, Dear Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👨🏻‍💻
+## Come on in, Dear Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👨🏻‍💻
 
 <div align= "justify">
 
-Meu nome é Osvaldo Melo e curto bastante o mundo da Tecnologia.
+My name is Osvaldo Melo and I really enjoy the world of Technology.
 
-Atualmente busco aprender Programação e outras ferramentas da área de Informática/Computação!
+Currently I seek to learn Programming and other tools in the area of Informatics/Computing.
+
 <br>
 <div align="center" width="25">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
