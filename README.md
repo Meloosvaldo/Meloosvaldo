@@ -52,7 +52,6 @@ Currently I seek to learn Programming and other tools in the area of Informatics
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MIRO](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
-![Nome](https://github-profile-trophy.vercel.app/?username={Meloosvaldo})
 
  	
 
