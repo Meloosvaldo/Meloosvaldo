@@ -21,7 +21,8 @@ Currently I seek to learn Programming and other tools in the area of Informatics
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meloosvaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meloosvaldo&layout=compact&https://github.com/Meloosvaldo/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meloosvaldo&layout=compact"/>
+  <img height="180em" src="https://github.com/Meloosvaldo/github-readme-stats"/>
 
 
 
