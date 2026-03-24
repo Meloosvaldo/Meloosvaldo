@@ -65,6 +65,8 @@ Currently I seek to learn Programming and other tools in the area of Informatics
   <a href="https://www.instagram.com/osvaldomelojr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/osvaldo-antunes-de-melo-junior-6026bb49" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-</div>
+<div align="center">
+<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Meloosvaldo&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Meloosvaldo&label=VISITANTES&color=0e75b6&style=flat)
+</div>
