@@ -67,7 +67,4 @@ Currently I seek to learn Programming and other tools in the area of Informatics
   
 </div>
 
-<div align="center">
-<img height="120" alt="Thanks for the visit!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
-
-![Visitor Count](https://profile-counter.glitch.me/Meloosvaldo/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Meloosvaldo&color=blue)
